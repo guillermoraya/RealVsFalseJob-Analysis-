@@ -1,0 +1,8 @@
+REQUIREMENTS:
+
+The following dependencies are necessary for running the Analysis notebook:
+	· sklearn
+	· pandas
+	· numpy
+	· matplotlib
+	· scipy
